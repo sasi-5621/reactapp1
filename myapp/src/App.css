@@ -1,0 +1,63 @@
+.iamge2 {
+  margin-left: 200px;
+}
+
+.heading1{
+  margin-left: 200px;
+  
+}
+.button1{
+  width: 100px;
+  height: 30px;
+  text-align: center;
+  margin-left: 27px;
+  border-radius: 5px;
+  
+}
+
+
+.heading1 p{
+  padding-bottom: 20px;
+}
+.div1{
+  margin-left: 500px;
+  
+}
+
+ul li{
+  display: flex;
+}
+li {
+  float: left;
+  margin-inline: 30px;
+  
+}
+
+ul li{
+  margin-bottom: 150px;
+  margin-left: 100px;
+}
+
+.home1{
+  margin-top: 3px;
+  margin-right: 8px;
+}
+.home2{
+  margin-top: 2px;
+  margin-right:8px ;
+}
+.line {
+  color: black;
+}
+body{
+  background-color: rgb(121, 175, 171);
+}
+
+.search1{
+margin-top: 50px;  
+}
+
+
+
+
+
